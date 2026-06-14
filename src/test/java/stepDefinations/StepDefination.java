@@ -47,6 +47,8 @@ public class StepDefination extends Utils {
 		System.out.println("Added by GitY");
 		System.out.println("Added by GitX");
 		System.out.println("Added by GitX on Develop branch");
+		System.out.println("Added by GitY on Develop branch");
+
 	}
 
 	@When("User call {string} with {string} http request")
