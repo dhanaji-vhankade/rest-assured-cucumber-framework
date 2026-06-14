@@ -1,0 +1,328 @@
+Here are the details for the visible courses offered by the **Rahul Shetty Academy** on this page:
+
+---
+
+### 1. Playwright JS/TS Automation Testing from Scratch & Framework
+
+* **Description:** 100k Learners - Playwright tutorials on TypeScript & JavaScript - (Web & API) Testing, AI Agents, MCP, Cucumber, CI/CD etc.
+* **Rating:** 4.6 out of 5 (28,352 reviews)
+* **Duration:** 25 total hours | 147 lectures
+* **Level:** All Levels
+* **Price:** ₹659.00 *(Original Price: ₹4,219.00)*
+* **Status:** Bestseller
+
+### 2. GenAI & AI Agents for QA Automation | Copilot & Claude code
+
+* **Description:** Masterclass: Boost Your Testing Productivity with AI Agents (Copilot, Claude, n8n, MCP & Agentic Solutions).
+* **Rating:** 4.5 out of 5 (19,324 reviews)
+* **Duration:** 11 total hours | 72 lectures
+* **Level:** All Levels
+* **Price:** ₹549.00 *(Original Price: ₹2,989.00)*
+* **Status:** Bestseller
+
+### 3. Playwright PYTHON Automation Testing - From Zero to Expert
+
+* **Description:** BRAND NEW - Practical Training on Python and Playwright for (Web/API) Automation from scratch with Pytest BDD Framework.
+* **Rating:** 4.6 out of 5 (5,486 reviews)
+* **Duration:** 13.5 total hours | 86 lectures
+* **Level:** All Levels
+* **Price:** ₹519.00 *(Original Price: ₹3,219.00)*
+* **Status:** Bestseller
+
+### 4. Selenium WebDriver with Java - Basics to Advanced + Frameworks
+
+* **Description:** "TOP RATED #1 Master SELENIUM java 4 (Latest) course" - 5 Million students learning worldwide with great collaboration.
+* **Rating:** 4.6 out of 5 (140,422 reviews)
+* **Duration:** 56 total hours | 339 lectures
+* **Level:** All Levels
+* **Price:** ₹549.00 *(Original Price: ₹3,549.00)*
+* **Status:** Bestseller
+
+### 5. Learn Agentic AI – Build Multi-Agent Automation Workflows
+
+* **Description:** Build Autonomous AI Agents with AutoGen & MCP – End-to-End Agentic AI Workflows with 6 Agents for Real-World Automation.
+* **Rating:** 4.6 out of 5 (2,183 reviews)
+* **Duration:** 10 total hours | 66 lectures
+* **Level:** All Levels
+* **Price:** ₹509.00 *(Original Price: ₹799.00)*
+* **Status:** Bestseller
+
+### 6. Rest API Testing (Automation) from Scratch - Rest Assured Java
+
+* **Description:** Top Ranked #1 Rest API Test Automation & Postman tutorial with Java from Basics to Framework with real-time examples.
+* **Rating:** 4.6 out of 5 (48,396 reviews)
+* **Duration:** 24.5 total hours | 152 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,459.00)*
+* **Status:** Bestseller
+
+### 7. 2026 - ISTQB AI Testing (CT-AI) Certification - Crash Course
+
+* **Description:** AI Testing Explained for Testers with full ISTQB CT-AI Preparation, 200+ Practice Quizzes & Exam Confidence.
+* **Rating:** 4.5 out of 5 (372 reviews)
+* **Duration:** 9 total hours | 109 lectures
+* **Level:** All Levels
+* **Price:** ₹499.00 *(Original Price: ₹1,979.00)*
+* **Status:** Bestseller
+
+### 8. MasterClass Software Testing with Jira & Agile - Be a QA Lead
+
+* **Description:** Straight to the point. 2026 BEST job-oriented Software Manual Testing course on real-time Projects + Interview questions.
+* **Rating:** 4.6 out of 5 (25,754 reviews)
+* **Duration:** 10.5 total hours | 81 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,459.00)*
+* **Status:** Bestseller
+
+### 9. Selenium Webdriver with PYTHON from Scratch + Frameworks
+
+* **Description:** Version 4 LATEST - Learn Python Programming & Selenium Python Automation from Basics to Advanced level + 5 LIVE Projects.
+* **Rating:** 4.6 out of 5 (25,556 reviews)
+* **Duration:** 18 total hours | 117 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,459.00)*
+* **Status:** Bestseller
+
+Here are the details for the remaining courses listed on the current page view:
+
+---
+
+### 1. Learn TestMu AI - Agentic AI Quality Engineering Platform
+
+* **Description:** Master AI-Driven Testing with TestMu AI — Plan, Generate, Execute & Analyze Tests Using Autonomous AI Agents.
+* **Rating:** 4.4 out of 5 (35 reviews)
+* **Duration:** 2 total hours | 14 lectures
+* **Level:** All Levels
+* **Price:** ₹479.00 *(Original Price: ₹1,919.00)*
+* **Status:** Hot & New
+
+### 2. 2026 - ISTQB Certified Tester Foundation Level - Crash Course
+
+* **Description:** ISTQB (CTFL) - A real-time training approach & 200+ practice quizzes to master concepts and boost exam confidence.
+* **Rating:** 4.6 out of 5 (1,250 reviews)
+* **Duration:** 7 total hours | 75 lectures
+* **Level:** All Levels
+* **Price:** ₹499.00 *(Original Price: ₹799.00)*
+* **Status:** Bestseller
+
+### 3. Appium - Mobile Testing (Android/iOS) from Scratch + Frameworks
+
+* **Description:** [LATEST VERSION 2.0] Master on Mobile Apps Automation Testing from basics to Framework CI/CD with real-time examples.
+* **Rating:** 4.5 out of 5 (24,043 reviews)
+* **Duration:** 26 total hours | 157 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,459.00)*
+* **Status:** Bestseller
+
+### 4. Postman - Learn API Testing from Scratch with Live Projects
+
+* **Description:** Basics to Advanced Postman Automation tutorial from scratch to learn API / Web Services testing with CI/CD Integration.
+* **Rating:** 4.6 out of 5 (11,216 reviews)
+* **Duration:** 13.5 total hours | 84 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,459.00)*
+
+### 5. RAG-LLM Evals & Test Automation for Beginners
+
+* **Description:** Understand, Evaluate & Test RAG - LLMs (AI-based Systems) from Scratch using RAGAS-Python-Pytest Framework.
+* **Rating:** 4.5 out of 5 (1,549 reviews)
+* **Duration:** 8.5 total hours | 59 lectures
+* **Level:** Expert
+* **Price:** ₹509.00 *(Original Price: ₹3,019.00)*
+
+### 6. Learn JMETER from Scratch on Live Apps - Performance Testing
+
+* **Description:** Top class Jmeter lectures explaining Load testing with real-time examples including material and query support.
+* **Rating:** 4.5 out of 5 (25,802 reviews)
+* **Duration:** 8.5 total hours | 48 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,459.00)*
+* **Status:** Bestseller
+
+### 7. K6 – Performance Testing Masterclass with JavaScript
+
+* **Description:** Learn API and Browser Load Testing using K6 - JavaScript, Web Vitals, Core Metrics & Grafana Cloud Integration.
+* **Rating:** 4.7 out of 5 (142 reviews)
+* **Duration:** 6 total hours | 47 lectures
+* **Level:** All Levels
+* **Price:** ₹499.00 *(Original Price: ₹1,979.00)*
+* **Status:** Bestseller
+
+### 8. Azure DevOps Crash Course - Build CI/CD Release Pipelines
+
+* **Description:** Step-by-step Tutorial to understand CI/CD pipelines, Release activities, Docker, Code Repos, Project Boards, in Azure.
+* **Rating:** 4.5 out of 5 (8,783 reviews)
+* **Duration:** 7 total hours | 53 lectures
+* **Level:** All Levels
+* **Price:** ₹549.00 *(Original Price: ₹3,499.00)*
+* **Status:** Bestseller
+
+### 9. LangChain Framework for Beginners – Build AI Systems + RAG
+
+* **Description:** Learn LangChain 1.0 TypeScript with AI Agents, Tools, RAG Pipelines, Agentic RAG, MCP Integration, LangGraph Deployment.
+* **Rating:** 4.6 out of 5 (161 reviews)
+* **Duration:** 6.5 total hours | 46 lectures
+* **Level:** All Levels
+* **Price:** ₹499.00 *(Original Price: ₹799.00)*
+
+Here are the details for the remaining courses visible on this page of the academy:
+
+---
+
+### 1. Cypress - Modern Automation Testing from Scratch + Frameworks
+
+* **Description:** Learn writing fast and robust Automated (UI + Integration) Tests using Cypress V14 with Mocha and Cucumber frameworks.
+* **Rating:** 4.6 out of 5 (19,485 reviews)
+* **Duration:** 20.5 total hours | 116 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,459.00)*
+* **Status:** Bestseller
+* **Link:** [View Course on Udemy](https://www.udemy.com/user/rahul445/) *(Page Reference)*
+
+### 2. Robot Framework with Python - Selenium/API Automation Testing
+
+* **Description:** Build Selenium UI & API Tests in the fastest & easiest way using Robot Framework from this step-by-step tutorial.
+* **Rating:** 4.6 out of 5 (6,609 reviews)
+* **Duration:** 9 total hours | 57 lectures
+* **Level:** All Levels
+* **Price:** ₹619.00 *(Original Price: ₹3,959.00)*
+* **Status:** Bestseller
+
+### 3. Top 150+ QA Automation Interview Questions & Resume Tips
+
+* **Description:** Job-oriented Interview preparation course on Selenium, API testing, TestNG, SQL, Cucumber & Java programs with solutions.
+* **Rating:** 4.7 out of 5 (7,030 reviews)
+* **Duration:** 11 total hours | 54 lectures
+* **Level:** All Levels
+* **Price:** ₹669.00 *(Original Price: ₹4,319.00)*
+
+### 4. Build Your Own MCP Servers with TypeScript - Beginner’s Guide
+
+* **Description:** Learn how to turn your backend code into real AI-driven systems by building a Model Context Protocol (MCP) Server.
+* **Rating:** 4.4 out of 5 (333 reviews)
+* **Duration:** 5 total hours | 36 lectures
+* **Level:** All Levels
+* **Price:** ₹499.00 *(Original Price: ₹799.00)*
+
+### 5. Learn ETL Testing & Data Warehouse Fundamentals
+
+* **Description:** Be a Data Quality Assurance Engineer — Build a strong foundation in ETL, Data Warehousing, and testing for data quality.
+* **Rating:** 4.5 out of 5 (1,253 reviews)
+* **Duration:** 7 total hours | 44 lectures
+* **Level:** All Levels
+* **Price:** ₹529.00 *(Original Price: ₹799.00)*
+* **Status:** Bestseller
+
+### 6. Core Java for Automation Testers - Coding Made Easy
+
+* **Description:** A step-by-step practical tutorial to master Java with tons of programming examples and Interview Questions.
+* **Rating:** 4.6 out of 5 (10,999 reviews)
+* **Duration:** 10 total hours | 78 lectures
+* **Level:** All Levels
+* **Price:** ₹689.00 *(Original Price: ₹4,409.00)*
+
+### 7. Introduction to Machine Learning Models (AI) Testing
+
+* **Description:** From scratch, learn testing types and strategies involved in all phases of ML Models (AI) with real-time examples.
+* **Rating:** 4.4 out of 5 (1,864 reviews)
+* **Duration:** 5 total hours | 39 lectures
+* **Level:** All Levels
+* **Price:** ₹529.00 *(Original Price: ₹3,119.00)*
+* **Status:** Bestseller
+
+### 8. Learn Cucumber BDD with Java - MasterClass Selenium Framework
+
+* **Description:** Step-by-Step Cucumber BDD Framework Tutorial with Java and implement a robust Selenium WebDriver Framework from scratch.
+* **Rating:** 4.6 out of 5 (16,809 reviews)
+* **Duration:** 12 total hours | 81 lectures
+* **Level:** All Levels
+* **Price:** ₹679.00 *(Original Price: ₹4,359.00)*
+* **Status:** Bestseller
+
+### 9. Learn API Automation Testing with Python & BDD Framework
+
+* **Description:** Build Python automation utilities to test REST APIs with SQL DB Integration, Batch Jobs Automation, Web Scraping, etc.
+* **Rating:** 4.6 out of 5 (3,114 reviews)
+* **Duration:** 11.5 total hours | 79 lectures
+* **Level:** All Levels
+* **Price:** ₹679.00 *(Original Price: ₹4,359.00)*
+
+Here are the details for the remaining courses on the current list from the academy:
+
+---
+
+### 1. Learn SQL +Security(pen) testing from Scratch
+
+* **Description:** Step-by-step Tutorial to learn SQL and Web Security testing with real-time examples.
+* **Rating:** 4.6 out of 5 (3,759 reviews)
+* **Duration:** 13.5 total hours | 117 lectures
+* **Level:** All Levels
+* **Price:** ₹669.00 *(Original Price: ₹4,319.00)*
+* **Status:** Bestseller
+* **Link:** [View Course on Udemy](https://www.udemy.com/user/rahul445/)
+
+### 2. Selenium WebDriver with C# from Scratch - Nunit Framework
+
+* **Description:** BRAND NEW COURSE - Become an expert-level Selenium C# Engineer and learn how to implement an Automation framework from Scratch.
+* **Rating:** 4.5 out of 5 (4,498 reviews)
+* **Duration:** 10 total hours | 60 lectures
+* **Level:** All Levels
+* **Price:** ₹669.00 *(Original Price: ₹4,319.00)*
+
+### 3. Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins
+
+* **Description:** Step-by-step Practical course to Automate Continuous Integration/Delivery process with Ansible, Jenkins, GIT, and Docker on AWS.
+* **Rating:** 4.6 out of 5 (5,625 reviews)
+* **Duration:** 9 total hours | 58 lectures
+* **Level:** All Levels
+* **Price:** ₹679.00 *(Original Price: ₹4,359.00)*
+
+### 4. Learn GIT In depth with BitBucket- Practical work flows
+
+* **Description:** Learn smart ways of using GIT & Bitbucket with many advanced Commands - commit, merge, squash, rebase, bisect, cherrypick, etc.
+* **Rating:** 4.5 out of 5 (2,930 reviews)
+* **Duration:** 6.5 total hours | 42 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,079.00)*
+* **Status:** Bestseller
+
+### 5. Microservices Contract Testing with Pact
+
+* **Description:** This Course explains Why/How to write contract tests for Testing Microservices using the Pact Testing tool on Live Projects.
+* **Rating:** 4.5 out of 5 (1,360 reviews)
+* **Duration:** 4 total hours | 24 lectures
+* **Level:** All Levels
+* **Price:** ₹539.00 *(Original Price: ₹3,459.00)*
+
+### 6. WebServices/Rest API Testing with SoapUI +Real time Projects
+
+* **Description:** "Most Popular #1 SoapUI Test automation Course - 70,000+ students learning together with great collaboration."
+* **Rating:** 4.3 out of 5 (18,091 reviews)
+* **Duration:** 12.5 total hours | 75 lectures
+* **Level:** All Levels
+* **Price:** ₹679.00 *(Original Price: ₹4,339.00)*
+* **Status:** Bestseller
+
+### 7. RPA - Process Automation using UIPATH - Beginner to Expert
+
+* **Description:** Automate Desktop Apps, Excel operations, PDF Data, Scanned Docs, Web, Files, emails, etc. using UIPATH - RPA Technology.
+* **Rating:** 4.4 out of 5 (5,459 reviews)
+* **Duration:** 7.5 total hours | 62 lectures
+* **Level:** All Levels
+* **Price:** ₹509.00 *(Original Price: ₹3,269.00)*
+
+### 8. WebDriverIO + Node.js -JavaScript UI Automation from Scratch
+
+* **Description:** Top-class tutorial on WebDriverIO (Selenium JavaScript) Automation Testing from basics to Framework including JS Basics.
+* **Rating:** 4.6 out of 5 (3,984 reviews)
+* **Duration:** 11 total hours | 75 lectures
+* **Level:** All Levels
+* **Price:** ₹559.00 *(Original Price: ₹3,599.00)*
+
+### 9. SDET/Test Architect Essentials -Road to Full stack QA
+
+* **Description:** Advanced Tutorial to Learn essential skills needed to transform your career from QA Engineer to SDET/Test Architect.
+* **Rating:** 4.6 out of 5 (3,370 reviews)
+* **Duration:** 13 total hours | 74 lectures
+* **Level:** All Levels
+* **Price:** ₹689.00 *(Original Price: ₹4,339.00)*
