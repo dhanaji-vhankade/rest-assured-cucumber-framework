@@ -44,6 +44,7 @@ public class StepDefination extends Utils {
 
 		// Add place
 		req = given().spec(requestSpecification()).body(data.addPlacePayload(name, language, address));
+		System.out.println("Added by GitY");
 
 	}
 
@@ -98,7 +99,6 @@ public class StepDefination extends Utils {
 	@Given("DeletePlace payload")
 	public void delete_place_payload() throws IOException {
 		req = given().spec(requestSpecification()).body(data.deletePlacePayload(placeId));
-
 	}
 
 }
