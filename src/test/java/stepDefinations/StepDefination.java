@@ -45,7 +45,7 @@ public class StepDefination extends Utils {
 		// Add place
 		req = given().spec(requestSpecification()).body(data.addPlacePayload(name, language, address));
 		System.out.println("Added by GitY");
-
+		System.out.println("Added by GitX");
 	}
 
 	@When("User call {string} with {string} http request")
